@@ -5,6 +5,13 @@ It allows users to convert between different currencies with real-time data.
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Live Website:**
+👉 https://rahulkrvermaa.github.io/Currency-Convertor/
+
+---
+
 ## 🚀 Features
 
 * 🔄 Convert between multiple currencies
@@ -18,7 +25,7 @@ It allows users to convert between different currencies with real-time data.
 ## 🛠️ Tech Stack
 
 * **Frontend:** React (Vite)
-* **Styling:** CSS
+* **Styling:** CSS / Tailwind CSS
 * **API:** Exchange Rate API (optional)
 
 ---
@@ -112,3 +119,4 @@ This project is open source and available under the **MIT License**.
 ---
 
 ⭐ If you like this project, don’t forget to star the repo!
+
